@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6d6f25221d0848d393fe23125d030611/artifacts
+end_time: 1771248483138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d6f25221d0848d393fe23125d030611
+run_name: exultant-hog-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248459472
+status: 3
+tags: []
+user_id: u339700

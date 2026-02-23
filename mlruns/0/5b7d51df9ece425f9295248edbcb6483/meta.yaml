@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/5b7d51df9ece425f9295248edbcb6483/artifacts
+end_time: 1771247783421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7d51df9ece425f9295248edbcb6483
+run_name: angry-ant-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771247753497
+status: 3
+tags: []
+user_id: u339700

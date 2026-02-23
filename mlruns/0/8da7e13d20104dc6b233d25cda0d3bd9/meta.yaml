@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/8da7e13d20104dc6b233d25cda0d3bd9/artifacts
+end_time: 1771243056800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8da7e13d20104dc6b233d25cda0d3bd9
+run_name: sassy-colt-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771242954268
+status: 3
+tags: []
+user_id: u339700

@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/1ab97ce7bd614f30a8e578d5f1d99fdb/artifacts
+end_time: 1771248515814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ab97ce7bd614f30a8e578d5f1d99fdb
+run_name: redolent-kit-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248483730
+status: 3
+tags: []
+user_id: u339700

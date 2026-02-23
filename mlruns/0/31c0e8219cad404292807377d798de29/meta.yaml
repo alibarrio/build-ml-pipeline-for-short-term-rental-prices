@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/31c0e8219cad404292807377d798de29/artifacts
+end_time: 1771248571704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c0e8219cad404292807377d798de29
+run_name: stately-flea-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248175335
+status: 3
+tags: []
+user_id: u339700
