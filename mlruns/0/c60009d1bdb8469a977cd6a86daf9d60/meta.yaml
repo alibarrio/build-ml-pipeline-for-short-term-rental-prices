@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/c60009d1bdb8469a977cd6a86daf9d60/artifacts
+end_time: 1771248093392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c60009d1bdb8469a977cd6a86daf9d60
+run_name: popular-ant-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248086555
+status: 4
+tags: []
+user_id: u339700

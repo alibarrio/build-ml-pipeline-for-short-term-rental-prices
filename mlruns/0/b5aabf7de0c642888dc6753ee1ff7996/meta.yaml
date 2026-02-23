@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/b5aabf7de0c642888dc6753ee1ff7996/artifacts
+end_time: 1771247995866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5aabf7de0c642888dc6753ee1ff7996
+run_name: abrasive-duck-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771247989467
+status: 4
+tags: []
+user_id: u339700

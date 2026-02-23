@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/b5fb2bd2664145959f8ebb1ff3483a67/artifacts
+end_time: 1771244957697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5fb2bd2664145959f8ebb1ff3483a67
+run_name: valuable-midge-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771244879855
+status: 4
+tags: []
+user_id: u339700

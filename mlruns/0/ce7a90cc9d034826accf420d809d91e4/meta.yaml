@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/ce7a90cc9d034826accf420d809d91e4/artifacts
+end_time: 1771248278673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce7a90cc9d034826accf420d809d91e4
+run_name: amazing-rat-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248255090
+status: 3
+tags: []
+user_id: u339700

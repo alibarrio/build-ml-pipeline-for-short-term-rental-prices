@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/c06dc29ad10544af81443674a6b43d39/artifacts
+end_time: 1771248391683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c06dc29ad10544af81443674a6b43d39
+run_name: victorious-horse-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248366682
+status: 3
+tags: []
+user_id: u339700

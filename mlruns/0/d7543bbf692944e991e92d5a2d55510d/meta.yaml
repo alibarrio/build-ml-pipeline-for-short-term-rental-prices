@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/d7543bbf692944e991e92d5a2d55510d/artifacts
+end_time: 1771247784435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7543bbf692944e991e92d5a2d55510d
+run_name: capricious-fly-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771247744574
+status: 3
+tags: []
+user_id: u339700

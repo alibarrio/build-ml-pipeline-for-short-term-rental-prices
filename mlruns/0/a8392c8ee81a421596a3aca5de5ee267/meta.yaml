@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/a8392c8ee81a421596a3aca5de5ee267/artifacts
+end_time: 1771239315747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8392c8ee81a421596a3aca5de5ee267
+run_name: fun-foal-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771239192986
+status: 3
+tags: []
+user_id: u339700
