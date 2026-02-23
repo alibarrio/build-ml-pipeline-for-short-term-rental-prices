@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/e3716c8a9b33454488f828eedf0cf043/artifacts
+end_time: 1771243698500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3716c8a9b33454488f828eedf0cf043
+run_name: lyrical-tern-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771243612144
+status: 3
+tags: []
+user_id: u339700
