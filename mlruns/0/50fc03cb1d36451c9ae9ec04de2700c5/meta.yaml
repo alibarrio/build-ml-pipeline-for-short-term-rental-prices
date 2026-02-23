@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/50fc03cb1d36451c9ae9ec04de2700c5/artifacts
+end_time: 1771248336672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50fc03cb1d36451c9ae9ec04de2700c5
+run_name: industrious-worm-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248313016
+status: 3
+tags: []
+user_id: u339700

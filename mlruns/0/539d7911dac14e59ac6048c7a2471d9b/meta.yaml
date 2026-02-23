@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/539d7911dac14e59ac6048c7a2471d9b/artifacts
+end_time: 1771248437093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 539d7911dac14e59ac6048c7a2471d9b
+run_name: handsome-swan-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248416521
+status: 3
+tags: []
+user_id: u339700

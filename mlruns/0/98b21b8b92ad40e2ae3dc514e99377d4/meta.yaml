@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/98b21b8b92ad40e2ae3dc514e99377d4/artifacts
+end_time: 1771248545440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98b21b8b92ad40e2ae3dc514e99377d4
+run_name: nervous-ant-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248516611
+status: 3
+tags: []
+user_id: u339700

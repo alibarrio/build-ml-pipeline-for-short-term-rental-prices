@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/88cbabbbf2ee404c9335f652bc9efaba/artifacts
+end_time: 1771244958383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88cbabbbf2ee404c9335f652bc9efaba
+run_name: nebulous-turtle-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771244871177
+status: 4
+tags: []
+user_id: u339700
