@@ -1,0 +1,47 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            gc9omlpltjae28fqku2oetgxj8aq2cb2:
+                args:
+                    - sample1.csv
+                    - sample.csv
+                    - raw_data
+                    - Raw file as downloaded
+                codePath: components/get_data/run.py
+                codePathLocal: run.py
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "22858903552"
+                email: a.barrio@iberdrola.es
+                executable: /home/u339700/miniconda3/envs/mlflow-ae62cd5582622c455f4e67580d01e92c8a453cce/bin/python
+                git:
+                    commit: 3b9025f87252a5a74917e37851ca9bee24f1848f
+                    remote: https://github.com/U339700_ibe/build-ml-pipeline-for-short-term-rental-prices.git
+                host: HOR8GZGKR3
+                memory:
+                    total: "8005054464"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/components/get_data/run.py
+                python: CPython 3.13.0
+                root: /mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/components/get_data
+                startedAt: "2026-02-16T10:55:06.947818Z"
+                writerId: gc9omlpltjae28fqku2oetgxj8aq2cb2
+        m: []
+        python_version: 3.13.0
+        t:
+            "4": 3.13.0
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64
+artifact_description:
+    value: Raw file as downloaded
+artifact_name:
+    value: sample.csv
+artifact_type:
+    value: raw_data
+sample:
+    value: sample1.csv
