@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":10},"_runtime":10,"feature_importance":{"format":"png","width":1000,"height":1000,"_type":"image-file","sha256":"b97c3605aee20dfd65022a33f27cba86a97479cbe1de16538aea30b8895bbb99","size":28511,"path":"media/images/feature_importance_0_b97c3605aee20dfd6502.png"},"_timestamp":1.7712483861428342e+09,"_step":0,"r2":0.5628430776587265,"mae":31.968793912269156}

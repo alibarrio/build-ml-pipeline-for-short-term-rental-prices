@@ -1,0 +1,44 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.12",
+  "startedAt": "2026-02-16T13:25:20.955714Z",
+  "args": [
+    "--trainval_artifact",
+    "trainval_data.csv:latest",
+    "--val_size",
+    "0.2",
+    "--random_seed",
+    "42",
+    "--stratify_by",
+    "neighbourhood_group",
+    "--rf_config",
+    "/mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/rf_config.json",
+    "--max_tfidf_features",
+    "15",
+    "--output_artifact",
+    "random_forest_export"
+  ],
+  "program": "/mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/train_random_forest/run.py",
+  "codePath": "src/train_random_forest/run.py",
+  "codePathLocal": "run.py",
+  "git": {
+    "remote": "https://github.com/U339700_ibe/build-ml-pipeline-for-short-term-rental-prices.git",
+    "commit": "3b9025f87252a5a74917e37851ca9bee24f1848f"
+  },
+  "email": "a.barrio@iberdrola.es",
+  "root": "/mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/train_random_forest",
+  "host": "HOR8GZGKR3",
+  "executable": "/home/u339700/miniconda3/envs/mlflow-114dfdd7a6f8d813e5c5a71f8972961923f526b5/bin/python",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "27553792000"
+    }
+  },
+  "memory": {
+    "total": "8005054464"
+  },
+  "writerId": "jcd0gtcmh9blm4txb15s7f186u8gqopt"
+}
