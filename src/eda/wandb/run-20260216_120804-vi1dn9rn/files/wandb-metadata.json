@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.12",
+  "startedAt": "2026-02-16T11:08:04.947391Z",
+  "program": "EDA.ipynb",
+  "codePath": "src/eda/EDA.ipynb",
+  "codePathLocal": "EDA.ipynb",
+  "git": {
+    "remote": "https://github.com/U339700_ibe/build-ml-pipeline-for-short-term-rental-prices.git",
+    "commit": "3b9025f87252a5a74917e37851ca9bee24f1848f"
+  },
+  "email": "a.barrio@iberdrola.es",
+  "root": "/mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/eda",
+  "host": "HOR8GZGKR3",
+  "executable": "/home/u339700/miniconda3/envs/mlflow-6f02ff4842fbe0d4c84a3c2da9d0eede237ec11e/bin/python",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "24555925504"
+    }
+  },
+  "memory": {
+    "total": "8005054464"
+  },
+  "writerId": "xi2du5v0r1ncnr4g831jdiiwwc48ves2"
+}

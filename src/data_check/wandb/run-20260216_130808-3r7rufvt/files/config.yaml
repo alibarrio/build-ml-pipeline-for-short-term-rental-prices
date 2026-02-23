@@ -1,0 +1,47 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            t9qi4vpngefy63xc81qx5ina9usq8jgr:
+                args:
+                    - .
+                    - -vv
+                    - --csv
+                    - clean_sample.csv:latest
+                    - --ref
+                    - sample.csv:latest
+                    - --kl_threshold
+                    - "0.2"
+                    - --min_price
+                    - "10"
+                    - --max_price
+                    - "350"
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "26128019456"
+                email: a.barrio@iberdrola.es
+                executable: /home/u339700/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/python3.13
+                git:
+                    commit: 3b9025f87252a5a74917e37851ca9bee24f1848f
+                    remote: https://github.com/U339700_ibe/build-ml-pipeline-for-short-term-rental-prices.git
+                host: HOR8GZGKR3
+                memory:
+                    total: "8005054464"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /home/u339700/miniconda3/envs/mlflow-22606ae752c24aececd6c02243d44d421c467002/bin/pytest
+                python: CPython 3.13.12
+                root: /mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/data_check
+                startedAt: "2026-02-16T12:08:08.970570Z"
+                writerId: t9qi4vpngefy63xc81qx5ina9usq8jgr
+        m: []
+        python_version: 3.13.12
+        t:
+            "3":
+                - 24
+            "4": 3.13.12
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64
