@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/1a6f34fe6e1a48a2aa4b36f3f7b4a584/artifacts
+end_time: 1771248205120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a6f34fe6e1a48a2aa4b36f3f7b4a584
+run_name: whimsical-hare-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248183255
+status: 3
+tags: []
+user_id: u339700
