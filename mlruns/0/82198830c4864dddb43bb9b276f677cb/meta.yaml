@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/82198830c4864dddb43bb9b276f677cb/artifacts
+end_time: 1771248570843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82198830c4864dddb43bb9b276f677cb
+run_name: gentle-toad-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248546271
+status: 3
+tags: []
+user_id: u339700

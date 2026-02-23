@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/0991d8ff74814c43b938c747683a8744/artifacts
+end_time: 1771239317274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0991d8ff74814c43b938c747683a8744
+run_name: youthful-swan-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771239103286
+status: 3
+tags: []
+user_id: u339700

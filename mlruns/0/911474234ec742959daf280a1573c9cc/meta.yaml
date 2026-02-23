@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/911474234ec742959daf280a1573c9cc/artifacts
+end_time: 1771244233045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 911474234ec742959daf280a1573c9cc
+run_name: skillful-toad-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771244135529
+status: 3
+tags: []
+user_id: u339700

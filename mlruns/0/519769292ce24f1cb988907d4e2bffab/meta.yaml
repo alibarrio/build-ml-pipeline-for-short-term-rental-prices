@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/519769292ce24f1cb988907d4e2bffab/artifacts
+end_time: 1771248254594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 519769292ce24f1cb988907d4e2bffab
+run_name: incongruous-duck-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248230364
+status: 3
+tags: []
+user_id: u339700

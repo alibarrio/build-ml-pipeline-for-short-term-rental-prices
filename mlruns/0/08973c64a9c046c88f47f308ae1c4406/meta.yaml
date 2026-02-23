@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/08973c64a9c046c88f47f308ae1c4406/artifacts
+end_time: 1771248459029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08973c64a9c046c88f47f308ae1c4406
+run_name: spiffy-crane-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248437475
+status: 3
+tags: []
+user_id: u339700

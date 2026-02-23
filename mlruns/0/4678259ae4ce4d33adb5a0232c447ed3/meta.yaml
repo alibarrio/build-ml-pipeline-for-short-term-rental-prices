@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/4678259ae4ce4d33adb5a0232c447ed3/artifacts
+end_time: 1771248366224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4678259ae4ce4d33adb5a0232c447ed3
+run_name: marvelous-eel-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771248337205
+status: 3
+tags: []
+user_id: u339700
