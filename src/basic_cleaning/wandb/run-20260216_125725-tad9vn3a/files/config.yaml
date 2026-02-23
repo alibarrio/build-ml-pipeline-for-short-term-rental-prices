@@ -1,0 +1,59 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        e:
+            t1xwdx7od0mbv39sr1sipe1idkn2p3lh:
+                args:
+                    - --input_artifact
+                    - sample.csv:latest
+                    - --output_artifact
+                    - clean_sample.csv
+                    - --output_type
+                    - clean_sample
+                    - --output_description
+                    - Data with outliers and null values removed
+                    - --min_price
+                    - "10"
+                    - --max_price
+                    - "350"
+                codePath: src/basic_cleaning/run.py
+                codePathLocal: run.py
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "25425944576"
+                email: a.barrio@iberdrola.es
+                executable: /home/u339700/miniconda3/envs/mlflow-a6250eff9ebee36f801eac3f5a61b8f81781ff2a/bin/python
+                git:
+                    commit: 3b9025f87252a5a74917e37851ca9bee24f1848f
+                    remote: https://github.com/U339700_ibe/build-ml-pipeline-for-short-term-rental-prices.git
+                host: HOR8GZGKR3
+                memory:
+                    total: "8005054464"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/basic_cleaning/run.py
+                python: CPython 3.13.12
+                root: /mnt/c/Users/u339700/Desktop/build-ml-pipeline-for-short-term-rental-prices/src/basic_cleaning
+                startedAt: "2026-02-16T11:57:25.104909Z"
+                writerId: t1xwdx7od0mbv39sr1sipe1idkn2p3lh
+        m: []
+        python_version: 3.13.12
+        t:
+            "4": 3.13.12
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": linux-x86_64
+input_artifact:
+    value: sample.csv:latest
+max_price:
+    value: 350
+min_price:
+    value: 10
+output_artifact:
+    value: clean_sample.csv
+output_description:
+    value: Data with outliers and null values removed
+output_type:
+    value: clean_sample
